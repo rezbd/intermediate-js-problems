@@ -36,3 +36,7 @@ console.log(`the 6th undefined output: ${politics}`);
 //undefined 7
 let animals = ["lion", "deer", "wolf"];
 console.log(`6th undefined output: ${animals[3]}`);
+
+/**
+ * null is explicitly set
+ */
